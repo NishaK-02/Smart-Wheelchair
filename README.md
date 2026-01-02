@@ -28,4 +28,4 @@ sensors for real-time obstacle detection and automatic stopping.
 ## Applications
 - Smart wheelchairs
 - Assistive mobility systems
-- Robotics projects
+- Microcontroller and Embedded based project
